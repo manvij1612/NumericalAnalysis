@@ -1,0 +1,18 @@
+# Generated output
+*.png
+*.pdf
+*.gif
+*.mp4
+
+# Julia
+Manifest.toml
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
